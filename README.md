@@ -31,7 +31,7 @@ CSS / HTML	Styling and structure
 bash
 Copy
 Edit
-git clone https://github.com/Atharva-Joshi8999/NFT-Marketplace_721.git
+git clone https://github.com/Atharva-Joshi8999/NFT_MarketPlace_Frontend.git
 cd nft-marketplace
 2️⃣ Install dependencies
 
